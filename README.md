@@ -1,6 +1,5 @@
 # Toly-On-Sol
 
-CA: 59BzqBiD53qZDxSZpaibGwHWkHQUifyrWfgsPxg5pump
 X: https://x.com/tolydogcoin
 
 <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/1101d42e-bcd3-4215-bfed-eaeeba18aca1" />
