@@ -1,5 +1,10 @@
 # Toly-On-Sol
 
+X: https://x.com/tolydogcoin
+
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/1101d42e-bcd3-4215-bfed-eaeeba18aca1" />
+
+
 Toly is an AI-powered dog character designed for livestream demos. He answers questions in real time with a playful persona and a simple API layer for stream integration. This repo includes a ready-to-run backend, a modular prompt/memory system, and a lightweight WebSocket path so Toly can react live to chat.
 
 ## Features
